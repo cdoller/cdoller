@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hola a todos! 👋 mi nombre es Carlos Oller, vivo en Argentina y soy Desarrollador Web Fullstack.
+
+🔭 Actualmente me encuentro trabajando para la empresa TP3D.com.ar como Lead Developer, estamos realizando un conector entre su ERP (llamado Global Blue Point) y diferentes ecommerce como PrestaShop y WooCommerce. El objetivo es automatizar la carga de ventas, clientes, actualizacion de stock y precios.
+
+🟢 Estamos aplicando PHP con su framework Laravel para desarrollar el backend y el frontend lo estamos realizando en React. El deploy de la aplicacion se encuentra realizado en DigitalOcean y la infraestructura relacionada tambien.
+Usamos Kanban para la gestion del trabajo, definicion de objetivos y metas.
+
+🌱 Me considero una persona con una gran curiosidad, me gustan los trabajos desafiantes y encontrar soluciones a las problematicas que se presentan, ya sea en el ambito laboral como personal. En estos momentos me sigo capacitando y profundizando mis conocimientos en Laravel, React y SQL.
+
+📫 Si queres charlar o consultarme algo sobre protocolos SOAP, WebService de PrestaShop, PHP, Laravel, JS y React, no dudes en mandarme un mail a carlosoller1994@gmail.com
+Con gusto te estare respondiendo 😀
+
 
 <!--
 **cdoller/cdoller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
