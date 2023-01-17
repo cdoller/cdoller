@@ -11,7 +11,7 @@ Usamos Kanban para la gestion del trabajo, definicion de objetivos y metas.
 📫 Si queres charlar o consultarme algo sobre protocolos SOAP, WebService de PrestaShop, PHP, Laravel, JS y React, no dudes en mandarme un mail a carlosoller1994@gmail.com
 Con gusto te estare respondiendo 😀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdoller&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -19,6 +19,8 @@ Con gusto te estare respondiendo 😀
 **cdoller/cdoller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdoller&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdoller&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
