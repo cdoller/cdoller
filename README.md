@@ -1,10 +1,10 @@
 ### Hola a todos! 👋 mi nombre es Carlos Oller, vivo en Argentina y soy Desarrollador Web Fullstack.
 
-🔭 Actualmente me encuentro trabajando para la empresa TP3D.com.ar como Developer Ssr Fullstack / Lead Developer.
+🔭 Actualmente me encuentro trabajando para la empresa TP3D.com.ar como Developer Fullstack.
 Estamos realizando un conector entre su ERP (llamado Global Blue Point) y diferentes ecommerce como PrestaShop y WooCommerce. El objetivo es automatizar la carga de ventas, clientes, actualizacion de stock y precios.
 
 🟢 Estamos aplicando PHP con su framework Laravel para desarrollar el backend y el frontend lo estamos realizando en React. El deploy de la aplicacion se encuentra realizado en DigitalOcean y la infraestructura relacionada tambien.
-Usamos Kanban para la gestion del trabajo, definicion de objetivos y metas.
+Usamos Kanban en conjunto con Scrum para la gestion del trabajo, definicion de objetivos y metas.
 
 🌱 Me considero una persona con una gran curiosidad, me gustan los trabajos desafiantes y encontrar soluciones a las problematicas que se presentan, ya sea en el ambito laboral como personal. En estos momentos me sigo capacitando y profundizando mis conocimientos en Laravel, React y SQL.
 
