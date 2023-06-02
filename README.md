@@ -1,25 +1,26 @@
-### Hola a todos! 👋 mi nombre es Carlos Oller, vivo en Argentina y soy Desarrollador Web.
-.Mi principal foco es el Backend y el desarrollo de APIS. Tengo conocimientos en PHP, JAVA, JS, HTML, CSS, Laravel, React, Sass, GIT, GITHUB.
+## Hola a todos! 👋 mi nombre es Carlos Oller, vivo en Argentina y soy Desarrollador Web.  
 
-.🔨 Laboral:
-.Desde el 2021 hasta la actualidad me encuentro trabajando para la empresa TP3D.com.ar como Developer Fullstack y como TeamLead del area de Sistemas de la empresa.
-.Mis principales tareas:
-.🔵 Desarrollar soluciones a medida para los requerimientos internos/externos de la empresa.
-.🔵 Implementar, gestionar, configurar y dar soporte a los sistemas de software de la empresa.
-.🔵 Coordinar y gestionar al equipo de sistemas en la realizacion de sus tareas.
-.🔵 Investigar y proponer nuevas soluciones o actualizaciones de los sistemas de software de la empresa.
-.🔵 Actualmente: estamos realizando un conector entre su ERP (llamado Global Blue Point) y diferentes ecommerce en PrestaShop y WooCommerce. El objetivo es automatizar la carga de ventas, clientes, actualizacion de stock y precios.
+Mi principal foco es el Back-End y el desarrollo de APIS. Tengo conocimientos en PHP, JAVA, JS, HTML, CSS, Laravel, React, Sass, GIT, GITHUB.
 
-.🤓 Estudios:
-.🟢 [2023] Actualmente estoy cursando una beca de la empresa GLOBANT de Programacion Backend JAVA.
-.🟢 [2022] Programacion FullStack - MundosE - PHP/LARAVEL/JS/REACT/HTML/CSS.
-.🟢 [2012-2021] Ingenieria en Computacion - UNC FCEFyN - Hasta el 8vo semestre completo.
+### 🔨 Laboral:  
+Desde el 2021 hasta la actualidad me encuentro trabajando para la empresa **TP3D.com.ar** como Developer Fullstack y como TeamLead del area de Sistemas de la empresa.
+#### Mis principales tareas:
+🔵 Desarrollar soluciones a medida para los requerimientos internos/externos de la empresa.  
+🔵 Implementar, gestionar, configurar y dar soporte a los sistemas de software de la empresa.  
+🔵 Coordinar y gestionar al equipo de sistemas en la realizacion de sus tareas.  
+🔵 Investigar y proponer nuevas soluciones o actualizaciones de los sistemas de software de la empresa.  
+🔵 Actualmente: estamos realizando un conector entre su ERP (llamado Global Blue Point - GBP) y diferentes ecommerce en PrestaShop y WooCommerce. El objetivo es automatizar la carga de ventas, clientes, actualizacion de stock y precios.  
 
-.🌱 Personal:
-.Me considero una persona con una gran curiosidad. Me gusta investigar y estudiar los temas que me apasionan. En mis tiempos libres alterno entre deporte, leer libros y ver peliculas.
+### 🤓 Estudios:  
+🟢 2023 - Actualmente estoy cursando una beca de la empresa **GLOBANT** de Programacion Backend JAVA.  
+🟢 2022 - Programacion FullStack - **MundosE** - PHP/LARAVEL/JS/REACT/HTML/CSS.  
+🟢 2012-2021 - Ingenieria en Computacion - **UNC FCEFyN** - Hasta el 8vo semestre completo.  
 
-.📫 Si queres charlar o consultarme algo sobre tu interes, no dudes en mandarme un mail a carlosoller1994@gmail.com
-.Con gusto te estare respondiendo 😀
+### 🌱 Personal:  
+Me considero una persona con una gran curiosidad. Me gusta investigar y estudiar los temas que me apasionan. En mis tiempos libres alterno entre deporte, leer libros y ver peliculas.  
+
+📫 Si queres charlar o consultarme algo sobre tu interes, no dudes en mandarme un mail a carlosoller1994@gmail.com  
+Con gusto te estare respondiendo 😀
 
 
 
