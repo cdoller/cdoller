@@ -4,6 +4,7 @@ Mi principal foco es el Backend y el desarrollo de APIS. Tengo conocimientos en 
 🔨 Laboral:
 Desde el 2021 hasta la actualidad me encuentro trabajando para la empresa TP3D.com.ar como Developer Fullstack y como TeamLead del area de Sistemas de la empresa.
 Mis principales tareas:
+
 🔵 Desarrollar soluciones a medida para los requerimientos internos/externos de la empresa.
 🔵 Implementar, gestionar, configurar y dar soporte a los sistemas de software de la empresa.
 🔵 Coordinar y gestionar al equipo de sistemas en la realizacion de sus tareas.
