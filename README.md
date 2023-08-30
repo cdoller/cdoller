@@ -3,13 +3,13 @@
 Mi principal foco es el Back-End y el desarrollo de APIS. Tengo conocimientos en PHP, JAVA, JS, HTML, CSS, Laravel, React, Sass, GIT, GITHUB.
 
 ### 🔨 Laboral:  
-Desde el 2021 hasta la actualidad me encuentro trabajando para la empresa **TP3D.com.ar** como Developer Fullstack y como TeamLead del area de Sistemas de la empresa.
-#### Mis principales tareas:
+Desde el 2022 hasta la actualidad me encuentro trabajando para la empresa **TP3D.com.ar** como Developer Fullstack y como TeamLead del area de Sistemas de la empresa.
+<!--#### Mis principales tareas:
 🔵 Desarrollar soluciones a medida para los requerimientos internos/externos de la empresa.  
 🔵 Implementar, gestionar, configurar y dar soporte a los sistemas de software de la empresa.  
 🔵 Coordinar y gestionar al equipo de sistemas en la realizacion de sus tareas.  
 🔵 Investigar y proponer nuevas soluciones o actualizaciones de los sistemas de software de la empresa.  
-🔵 Actualmente: estamos realizando un conector entre su ERP (llamado Global Blue Point - GBP) y diferentes ecommerce en PrestaShop y WooCommerce. El objetivo es automatizar la carga de ventas, clientes, actualizacion de stock y precios.  
+🔵 Actualmente: estamos realizando un conector entre su ERP (llamado Global Blue Point - GBP) y diferentes ecommerce en PrestaShop y WooCommerce. El objetivo es automatizar la carga de ventas, clientes, actualizacion de stock y precios.  -->
 
 ### 🤓 Estudios:  
 🟢 2023 - Actualmente estoy cursando una beca de la empresa **GLOBANT** de Programacion Backend JAVA.  
