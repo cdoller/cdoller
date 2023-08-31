@@ -1,6 +1,5 @@
-## Hola a todos! 👋 mi nombre es Carlos Oller, vivo en Argentina y soy Desarrollador Web.  
+## Hola a todos! 👋 mi nombre es Carlos y soy Desarrollador Web Backend
 
-Mi principal foco es el Back-End y el desarrollo de APIS. Tengo conocimientos en PHP, JAVA, JS, HTML, CSS, Laravel, React, Sass, GIT, GITHUB.
 
 ### 🔨 Laboral:  
 Desde el 2022 hasta la actualidad me encuentro trabajando para la empresa **TP3D.com.ar** como Developer Fullstack y como TeamLead del area de Sistemas de la empresa.
