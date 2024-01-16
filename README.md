@@ -11,7 +11,7 @@ Desde el 2022 hasta la actualidad me encuentro trabajando para la empresa **TP3D
 🔵 Actualmente: estamos realizando un conector entre su ERP (llamado Global Blue Point - GBP) y diferentes ecommerce en PrestaShop y WooCommerce. El objetivo es automatizar la carga de ventas, clientes, actualizacion de stock y precios.  -->
 
 ### 🤓 Estudios:  
-🟢 2023 - Programacion Backend JAVA - **GLOBANT** - JAVA + MYSQL + JDBC & JPA + SPRING MVC & REST + JUNIT + GIT.
+🟢 2023 - Programacion Backend JAVA - **GLOBANT** - JAVA + MYSQL + JDBC & JPA + SPRING MVC & REST + JUNIT + GIT.  
 🟢 2022 - Programacion FullStack - **MundosE** - PHP/LARAVEL/JS/REACT/HTML/CSS.  
 🟢 2012-2021 - Ingenieria en Computacion - **UNC FCEFyN** - Hasta el 8vo semestre completo.  
 
